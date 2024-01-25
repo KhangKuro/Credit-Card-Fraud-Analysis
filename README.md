@@ -38,6 +38,8 @@ This dataset simulates credit card transactions, including both legitimate and f
 - **merch_lat, merch_long**: Latitude and longitude of the merchant.
 - **is_fraud**: Binary index indicating whether the transaction is fraudulent (1 for fraud, 0 for not fraud).
 
+<img src = "https://github.com/KhangKuro/Credit-Card-Fraud-Detection/blob/main/erd.png" />
+
 ## Import Libraries 📚
 
 ```python
