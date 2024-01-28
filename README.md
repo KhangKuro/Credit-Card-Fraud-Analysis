@@ -88,6 +88,10 @@ df.head()
 ```
 <img src = "https://github.com/KhangKuro/Credit-Card-Fraud-Cluster/blob/main/CCFCluster.png" />
 
+### Cluster 🔮
+
+<img src = "https://github.com/KhangKuro/Credit-Card-Fraud-Cluster/blob/main/Cluster.png" />
+
 ## Insights 🧐
 
 From the analysis of fraud groups, there are some important common points:
